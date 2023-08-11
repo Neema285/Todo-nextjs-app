@@ -1,0 +1,14 @@
+.main {
+  display: flex;  
+  flex-direction: column;
+  justify-content: space-between;
+  align-items:normal;
+  padding: 6rem;
+  min-height: 100vh;
+}
+.input--title{
+  margin: auto;
+  padding: 20px 30px ;
+  color:brown;
+ }
+
